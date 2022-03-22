@@ -1,0 +1,8 @@
+.personagem {
+  height: 100px;
+  width: 100px;
+  background-color: #8a2be2;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
