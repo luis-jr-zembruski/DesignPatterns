@@ -35,7 +35,9 @@ This repository is used for studies on the subject in question. Take the opportu
 
 ## :sparkles: Features
 
-:heavy_check_mark: <a href="https://github.com/luis-jr-zembruski/DesignPatterns/tree/master/Strategy">Strategy</a>;
+### Behavioral
+
+:heavy_check_mark: <a href="https://github.com/luis-jr-zembruski/DesignPatterns/tree/master/Behavioral/Strategy">Strategy</a>;
 
 ## :rocket: Technologies
 
